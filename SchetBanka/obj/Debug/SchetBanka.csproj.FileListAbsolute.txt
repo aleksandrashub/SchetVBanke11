@@ -1,0 +1,8 @@
+C:\Users\prdb\Documents\Shubenok\SchetBanka\obj\Debug\SchetBanka.csproj.AssemblyReference.cache
+C:\Users\prdb\Documents\Shubenok\SchetBanka\obj\Debug\SchetBanka.csproj.SuggestedBindingRedirects.cache
+C:\Users\prdb\Documents\Shubenok\SchetBanka\obj\Debug\SchetBanka.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Documents\Shubenok\SchetBanka\bin\Debug\SchetBanka.exe.config
+C:\Users\prdb\Documents\Shubenok\SchetBanka\bin\Debug\SchetBanka.exe
+C:\Users\prdb\Documents\Shubenok\SchetBanka\bin\Debug\SchetBanka.pdb
+C:\Users\prdb\Documents\Shubenok\SchetBanka\obj\Debug\SchetBanka.exe
+C:\Users\prdb\Documents\Shubenok\SchetBanka\obj\Debug\SchetBanka.pdb
